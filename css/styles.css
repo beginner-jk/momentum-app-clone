@@ -1,0 +1,14 @@
+@import "background.css";
+@import "clock.css";
+@import "greeting.css";
+@import "todo.css";
+@import "quotes.css";
+@import "weather.css";
+
+html,
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
